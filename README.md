@@ -2,6 +2,7 @@
 ## Hi, I'm Ayusha Sharma 👋
 
 Computer Science student at Wright State University  
+Java | Python | C++ | HTML
 
 
 ##  Featured Projects
