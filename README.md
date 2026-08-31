@@ -1,7 +1,8 @@
 
 ## Hi, I'm Ayusha Sharma 👋
 
-Computer Science student at Wright State University. This is where I work on Projects, coursework and experiments as I go along the way.
+Computer Science student at Wright State University. This is where I work on Projects, coursework and experiments as I go along the way.  
+
 Java | Python | C++ | HTML
 
 
